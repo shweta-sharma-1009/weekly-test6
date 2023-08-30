@@ -1,4 +1,4 @@
-Hosted Link - 
+Hosted Link - https://shweta-sharma-1009.github.io/weekly-test6/
 
 UI -
 ![Screenshot (377)](https://github.com/shweta-sharma-1009/weekly-test6/assets/128416925/57af42b0-22fa-40a4-80ad-8383a6b9d81a)
